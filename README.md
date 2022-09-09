@@ -17,6 +17,10 @@ $> python Python/main.py
 ```
 Or use any python IDE (spyder/ jupyter notebook) and run the above mentioned files.
 
+## Files:
+    - cell.py : It implements the battery model as a python class with properties and methods to
+update and set/get the battery properties. It can be run to produce the OCV vs SOC plot.
+
 ## Dependencies:
     - python3
     - numpy
