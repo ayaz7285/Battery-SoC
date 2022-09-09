@@ -22,7 +22,7 @@ Or use any python IDE (spyder/ jupyter notebook) and run the above mentioned fil
 * **extended_kalman_filter.py:** It implements the extended Kalman filter with the methods predict and update.
 * **polynomial.py:** It has a polynomial class that outputs f(x) where f(x) is a polynomial function and x is an input. It can also give the derivative of that function
 * **main.py:** It runs the program and contains the flow of the code. Contains all the function calls and object creation of all the classes to instantiate their object with initial values.
-* * **experiment.py:** It is the flow of the experiment which simulates the battery soc result.
+* **experiment.py:** It is the flow of the experiment which simulates the battery soc result.
     
 ## Dependencies:
     - python3
