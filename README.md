@@ -11,10 +11,6 @@ To run it for extended kalman filters results just launch:
 $> python Python/main.py
 ```
 
-To run it for kalman filters results just launch:
-```sh
-$> python Python/main.py
-```
 Or use any python IDE (spyder/ jupyter notebook) and run the above mentioned files.
 
 ## Files:
